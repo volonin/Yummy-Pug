@@ -73,7 +73,7 @@ main .first_section .text button{
     height: 69px;
     width: 58%;
     font-family: Montserrat-Medium;
-    font-size: 20px;
+    font-size: 18px;
     border: 0;
     padding: 22px 0 21px 0;
     margin-top: 50px;
@@ -189,7 +189,7 @@ footer section{
 }
 footer section div p{
     color: white;
-    font-size: 45px;
+    font-size: 30px;
     margin: 0;
     line-height: 130%;
 }
