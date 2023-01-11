@@ -37,6 +37,12 @@ header nav a{
     margin-right: 0px;
     margin-left: 50px;
 }
+header nav a:hover{
+    background-color: #774E2E;
+    border-radius: 6px;
+    padding: 7px;
+    color: white;
+}
 main{
     width: 62%;
     margin: auto;
@@ -73,6 +79,11 @@ main .first_section .text button{
     margin-top: 50px;
     margin-bottom: 61px;
     transition: 0.3s;
+}
+main .first_section .text button:hover{
+    border-radius: 40px;
+    padding: 22px 10px 21px 10px;
+    width: 75%
 }
 main .first_section .photo{
     display: flex;
